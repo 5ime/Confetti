@@ -1,6 +1,6 @@
 {
   "name": "confetti",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "confetti",
   "main": "main.js",
   "author": "iami233",
@@ -20,15 +20,13 @@
     "directories": {
       "output": "dist"
     },
-    "files": [
-      "main.js",
-      "src/**/*",
-      "!node_modules"
-    ],
     "win": {
       "target": "nsis",
       "icon": "src/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
     }
   }
-  
 }
