@@ -2,7 +2,7 @@
 
 Confetti 是一个使用 Electron 构建的应用程序，它可以为您带来一次有趣的仪式感鼓励，激励您更加高效、持久地完成有意义的事情。
 
-![img](https://user-images.githubusercontent.com/31686695/224618405-51f52bb2-8ba8-44da-a2f3-208650239d87.gif)
+![img](https://user-images.githubusercontent.com/31686695/226540331-d278ec4b-cfad-49ee-baf7-3373fc8d7e75.gif)
 
 ## 安装
 
